@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NSP-sun.com</string>
+    <string name="splash_screen_string">©2022 Natures Sunshine Products, Inc. All rights reserved. Product information only applies to the U.S. Herb specialists since 1972.</string>
+    <string name="main_activity_bt1">Главная</string>
+    <string name="main_activity_bt2">Каталог продукции NSP</string>
+    <string name="main_activity_bt3">Получить скидку</string>
+    <string name="main_activity_bt4">Контакты в России</string>
+    <string name="main_activity_bt5">Блог Врача о Здоровье</string>
+    <string name="main_activity_tvTitleLarge">Independent Distributor</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

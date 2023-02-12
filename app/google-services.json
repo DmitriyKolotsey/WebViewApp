@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065430559435",
+    "project_id": "nsp-sun-com",
+    "storage_bucket": "nsp-sun-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065430559435:android:8a20413aa04d2f107a494e",
+        "android_client_info": {
+          "package_name": "com.nsp.sun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065430559435-o25580vmonvblgg723kjneoinu01o7tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8RCDBgixMm5kR6RD2qzKfIV6JTbJip9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065430559435-o25580vmonvblgg723kjneoinu01o7tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
